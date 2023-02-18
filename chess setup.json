@@ -25,14 +25,14 @@
             4,
             1
         ],
-        "white queen"
+        "white king"
     ],
     [
         [
             5,
             1
         ],
-        "white king"
+        "white queen"
     ],
     [
         [
@@ -137,14 +137,14 @@
             5,
             8
         ],
-        "black king"
+        "black queen"
     ],
     [
         [
             4,
             8
         ],
-        "black queen"
+        "black king"
     ],
     [
         [
