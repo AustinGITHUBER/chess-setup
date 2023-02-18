@@ -4,223 +4,223 @@
             1,
             1
         ],
-        "rook"
+        "white rook"
     ],
     [
         [
             2,
             1
         ],
-        "knight"
+        "white knight"
     ],
     [
         [
             3,
             1
         ],
-        "bishop"
+        "white bishop"
     ],
     [
         [
             4,
             1
         ],
-        "queen"
+        "white queen"
     ],
     [
         [
             5,
             1
         ],
-        "king"
+        "white king"
     ],
     [
         [
             6,
             1
         ],
-        "bishop"
+        "white bishop"
     ],
     [
         [
             7,
             1
         ],
-        "knight"
+        "white knight"
     ],
     [
         [
             8,
             1
         ],
-        "rook"
+        "white rook"
     ],
     [
         [
             1,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             2,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             3,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             4,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             5,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             6,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             7,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             8,
             2
         ],
-        "pawn"
+        "white pawn"
     ],
     [
         [
             8,
             8
         ],
-        "rook"
+        "black rook"
     ],
     [
         [
             7,
             8
         ],
-        "knight"
+        "black knight"
     ],
     [
         [
             6,
             8
         ],
-        "bishop"
+        "black bishop"
     ],
     [
         [
             5,
             8
         ],
-        "king"
+        "black king"
     ],
     [
         [
             4,
             8
         ],
-        "queen"
+        "black queen"
     ],
     [
         [
             3,
             8
         ],
-        "bishop"
+        "black bishop"
     ],
     [
         [
             2,
             8
         ],
-        "knight"
+        "black knight"
     ],
     [
         [
             1,
             8
         ],
-        "rook"
+        "black rook"
     ],
     [
         [
             8,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             7,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             6,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             5,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             4,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             3,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             2,
             7
         ],
-        "pawn"
+        "black pawn"
     ],
     [
         [
             1,
             7
         ],
-        "pawn"
+        "black pawn"
     ]
 ]
